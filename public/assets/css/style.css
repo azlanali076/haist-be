@@ -1,0 +1,56 @@
+.response-time h4 {
+    color: #a0a0a0;
+    font-size: 15px;
+}
+.sidebar {
+    margin-top: 3.5rem;
+}
+.card.manager-setting {
+    background: #2a3042;
+    height: 100px;
+}
+
+.manager-setting a {
+    color: #fff !important;
+}
+.manager-setting a h4 {
+    font-size: 17px;
+    line-height: 24px;
+}
+.results-area .col-md-4:nth-child(2) {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+.results-area .result-box {
+    text-align: center;
+}
+.results-area .result-box h5 {
+    font-size: 13px;
+    line-height: 20px;
+}
+.results-area .result-box h5 .num {
+    font-size: 23px;
+    line-height: 40px;
+}
+.inner-box {
+    border-radius: 4px;
+    box-shadow: 0px 0px 5px #ddd;
+    padding: 15px 15px 0;
+}
+.table-report .heading h3 {
+    color: #556ee6;
+    flex: 0 0 30%;
+}
+.table-report .heading select {
+    width: 20%;
+}
+.hai-details.p-3 ul li {
+    font-size: 15px;
+}
+.left-sidebar ul li a {
+    font-size: 15px;
+}
+.left-sidebar ul li {
+    /* border-bottom: 1px solid #ddd; */
+    padding: 6px 0px;
+}
